@@ -1,0 +1,39 @@
+1.jQuery:
+Regex Pattern: jquery(?:-\d+\.\d+(?:\.\d+)?)?.js
+Sample Website: https://jquery.com
+
+2.React.js:
+Regex Pattern: react(?:-\d+\.\d+(?:\.\d+)?)?.js
+Sample Website: https://reactjs.org
+
+3.WooCommerce:
+Regex Pattern: woocommerce
+Sample Website: https://woocommerce.com
+
+4.Bootstrap:
+Regex Pattern: bootstrap(?:\.min)?\.css
+Sample Website: https://getbootstrap.com
+
+5.Shopify:
+Regex Pattern: shopify
+Sample Website: https://www.shopify.com
+
+6.Next.js:
+Regex Pattern: next(?:-\d+\.\d+(?:\.\d+)?)?.js
+Sample Website: https://nextjs.org
+
+7.Materialize CSS:
+Regex Pattern: materialize(?:\.min)?\.css
+Sample Website: https://materializecss.com
+
+8.PHP:
+Regex Pattern: \<\?php
+Sample Website: PHP is a server-side technology, so patterns might not work directly in HTML source code.
+
+9.Python:
+Regex Pattern: import\s+python
+Sample Website: Python is a server-side technology, so patterns might not work directly in HTML source code.
+
+10.Google Maps:
+Regex Pattern: googleapis\.com\/maps
+Sample Website: Websites that use Google Maps often include this in their URLs.
